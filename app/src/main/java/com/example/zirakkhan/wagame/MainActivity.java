@@ -30,8 +30,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Play = (Button)findViewById(R.id.play);
-        Set = (Button)findViewById(R.id.settings);
+      //  Play = (Button)findViewById(R.id.play);
+        //Set = (Button)findViewById(R.id.settings);
         Start_text = (TextView)findViewById(R.id.start_text);
 
 
